@@ -1,0 +1,35 @@
+{
+  "description": "",
+  "version": "0.0.1",
+  "auth": "github:gfldex",
+  "authors": [
+    "Wenzel P. P. Peppmeyer <wenzel.peppmeyer@gmx.de>"
+  ],
+  "provides": {
+    
+  },
+  "source-url": "https://github.com/gfldex/perl6-app-sha256sum6.git",
+  "resources": [
+    
+  ],
+  "production": false,
+  "support": {
+    "source": null
+  },
+  "perl": "6.c",
+  "name": "App::SHA256SUM6",
+  "tags": [
+    
+  ],
+  "depends": [
+    "Test::META"
+  ],
+  "test-depends": [
+    
+  ],
+  "meta-version": "0",
+  "build-depends": [
+    
+  ],
+  "license": "Artistic-2.0"
+}
